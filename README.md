@@ -1,4 +1,4 @@
-# NeetCode Solutions — @spr555
+# NeetCode Solutions — @Surya Gundubai
 
 > Synced automatically from [NeetCode.io](https://neetcode.io) · Repository: `neetcode-submissions`
 
